@@ -1,0 +1,1 @@
+To run the game, open the folder named "Final Build 1" and run the executable "Just Shapes Prototype 2.exe". Run on Medium graphics option
